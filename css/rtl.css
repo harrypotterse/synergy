@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Cairo&display=swap');
+*{
+font-family: 'Cairo', sans-serif;
+letter-spacing: 0px !important;
+}
+h3.section-title.main-font.no-padding.margin-one.no-margin-top.gray-text.letter-spacing-3 {
+    font-family: 'Cairo', sans-serif !important;
+}
+
+body{direction:rtl;overflow-x:hidden;}
+#slider{direction:ltr;}
+.owl-carousel{direction:ltr;}
+.pull-left{float:right!important;}
+.pull-right{float:left!important;}
+.navbar-nav > li {
+    float: right;
+}
+.no-padding-right {
+    padding-left: 0px !important;
+}
+.f-right {
+    float: left !important;
+}
+.f-left {
+    float: right !important;
+}
+.col-md-offset-2 {
+    margin-right: 16.66666667%;
+    margin-left:auto!important;
+}
+.col-md-offset-1 {
+    margin-right: 8.33333333%!important;
+    margin-left: auto!important;
+}
+.text-left{text-align:right!important;}
+.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: right;
+}
+.med-input.select-style select {
+    direction: ltr;}
+.features-section {
+    margin-bottom: 80px;
+    float: right;
+}
+.tab-content{direction:ltr;}
+.cart-content {
+ 
+    left: 0;
+    right: auto;}
